@@ -24,9 +24,9 @@ int main()
   //the first and second blanks should be replaced with the coordinates
   //of the element's row and column and the third blank should be replaced
   //with the value of that element
-
- for(int i = 0; i < wordGrid.size(); i++){
-    for(int j = 0; j < wordGrid[].size(); j++){
+ int row, col;
+ for(int i = 0; i < row; i++){
+    for(int j = 0; j < col; j++){
         cout<<"Row "<< i <<" Column " << j <" Is "<<wordGrid[i][j]<<endl;
     }
  }
