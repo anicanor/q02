@@ -30,7 +30,7 @@ int main()
         cout<<"Row "<< i <<" Column " << j <" Is "<<wordGrid[i][j]<<endl;
     }
  }
-  
+ 
 
 
 
